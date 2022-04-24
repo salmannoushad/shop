@@ -1,0 +1,11 @@
+/* Admin panel */
+.nav-menu {
+  color: white;
+}
+.nav-menu:hover {
+  color: lightsteelblue;
+  font-weight: bold;
+}
+.card:hover {
+  box-shadow: 2px 2px 2px gray;
+}

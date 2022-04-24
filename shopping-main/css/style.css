@@ -1,0 +1,13 @@
+.productDeatils {
+  border: 2px solid black;
+  height: 100px;
+  color: white;
+  background-color: teal;
+  border-radius: 5px;
+  font-size: larger;
+  text-transform: uppercase;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

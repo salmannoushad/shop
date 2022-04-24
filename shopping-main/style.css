@@ -1,0 +1,46 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+.brand_name {
+  color: black;
+}
+.brand_name:hover {
+  font-weight: bolder;
+}
+
+.sub-nav-item {
+  color: white;
+}
+
+.sub-nav-item:hover {
+  color: rgb(38, 0, 255);
+  font-weight: bold;
+}
+
+.card-image {
+  width: 300px;
+  height: 350px;
+  object-fit: contain;
+}
+
+.card:hover {
+  box-shadow: 2px 2px 5px rgb(231, 30, 30);
+}
+
+.btn-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer-item {
+  color: white;
+}
+
+.footer-item:hover {
+  color: aqua;
+  font-weight: bold;
+}
